@@ -1,5 +1,11 @@
 # @razcue/easyfolio-shared
 
+## 0.3.0
+
+### Minor Changes
+
+- c8f1d99: Add contact section component
+
 ## 0.2.0
 
 ### Minor Changes
