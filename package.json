@@ -52,5 +52,8 @@
     "portfolio"
   ],
   "author": "razcue",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
