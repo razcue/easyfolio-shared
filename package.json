@@ -14,6 +14,10 @@
       "import": "./dist/index.mjs",
       "require": "./dist/index.js"
     },
+    "./dist/bundle.css": "./dist/bundle.css",
+    "./dist/easyfolio-shared.css": "./dist/easyfolio-shared.css",
+    "./dist/uno-css.css": "./dist/uno-css.css",
+    "./dist/fallback-vars.css": "./dist/fallback-vars.css",
     "./src": "./src/index.ts"
   },
   "peerDependencies": {
