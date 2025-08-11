@@ -1,5 +1,11 @@
 # @razcue/easyfolio-shared
 
+## 0.3.1
+
+### Patch Changes
+
+- adb7fc2: add iconify tabler package
+
 ## 0.3.0
 
 ### Minor Changes
