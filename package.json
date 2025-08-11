@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.5",
+    "@iconify-json/tabler": "^1.2.22",
     "@unocss/cli": "^66.4.2",
     "@unocss/preset-icons": "^66.4.2",
     "@unocss/preset-wind4": "^66.4.2",
