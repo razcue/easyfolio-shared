@@ -1,5 +1,11 @@
 # @razcue/easyfolio-shared
 
+## 0.4.1
+
+### Patch Changes
+
+- 2024bce: export components
+
 ## 0.4.0
 
 ### Minor Changes
