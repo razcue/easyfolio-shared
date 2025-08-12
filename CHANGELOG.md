@@ -1,5 +1,15 @@
 # @razcue/easyfolio-shared
 
+## 0.4.0
+
+### Minor Changes
+
+- b944582: add section components for availability, cover letter, education, experience, interests, languages, portfolio, skills, and summary
+
+### Patch Changes
+
+- 7404168: add LICENSE file
+
 ## 0.3.1
 
 ### Patch Changes
