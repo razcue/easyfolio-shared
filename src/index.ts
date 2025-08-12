@@ -1,2 +1,11 @@
 export { default as LineItem } from './components/LineItem.vue'
 export { default as ContactSection } from './components/ContactSection.vue';
+export { default as AvailabilitySection } from './components/AvailabilitySection.vue';
+export { default as CoverLetterSection } from './components/CoverLetterSection.vue';
+export { default as EducationSection } from './components/EducationSection.vue';
+export { default as ExperienceSection } from './components/ExperienceSection.vue';
+export { default as InterestSection } from './components/InterestSection.vue';
+export { default as LanguagesSection } from './components/LanguagesSection.vue';
+export { default as PortfolioSection } from './components/PortfolioSection.vue';
+export { default as SkillsSection } from './components/SkillsSection.vue';
+export { default as SummarySection } from './components/SummarySection.vue';
