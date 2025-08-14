@@ -1,5 +1,11 @@
 # @razcue/easyfolio-shared
 
+## 0.4.2
+
+### Patch Changes
+
+- 2b47c2e: update README.md file
+
 ## 0.4.1
 
 ### Patch Changes
